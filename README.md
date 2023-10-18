@@ -9,7 +9,7 @@ Atenção a unidade de medida para as colunas do DataSet não foi especificado, 
 
 O nível ideal de trihalometanos, cloraminas, carbono orgânico na água para irrigação não é especificamente determinado, não vou realizar toda a análise para essas colunas, e vou gerar apenas o gráfico de dispersão delas, ademais para as outras colunas foi possível encontrar valores recomendados.
 
-Nesse projeto vou dar uma ênfase em analisar os dados da coluna de PH, pois creio que os valores dessa coluna seguem a escala de PH que é normalmente utilizada na química, e na minha pesquisa não encontrei nada que determine que a unidade de medida do PH muda para outros países. Tendo em vista tudo isso os processos que realizei no código estão listados abaixo:
+Nesse projeto vou dar uma ênfase em analisar os dados da coluna de PH, pois creio que os valores dessa coluna seguem a escala de PH que é normalmente utilizada na química, e na minha pesquisa não encontrei nada que determine que a escala de medida do PH muda para outros países. Tendo em vista tudo isso os processos que realizei no código estão listados abaixo:
 
     1 - Excluindo os valores nulos.
     2 - Tradução dos nomes das colunas para PT/BR.
