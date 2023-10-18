@@ -74,6 +74,6 @@ Para testar o código é necessário criar um ambiente virtual com as versões d
     pip install -r requisitos.txt
     
     #execute o teste do arquivo
-    python Analise_precipitação.py
+    python Tratamento_dos_dados.py
     
     Após testar o código você pode desativar o ambiente virtual usando o comando deactivate no macOS e no Linux, ou .\myenv\Scripts\deactivate no Windows.  
