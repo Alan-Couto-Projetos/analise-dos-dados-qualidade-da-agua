@@ -43,10 +43,10 @@ Para testar o código é necessário criar um ambiente virtual com as versões d
     
     # Criando um ambiente virtual
     No macOS ou Linux:
-    python3.11 -m venv myenv
+    python -m venv myenv
     
     No Windows:
-    python3.11 -m venv myenv
+    python -m venv myenv
     
     
     
